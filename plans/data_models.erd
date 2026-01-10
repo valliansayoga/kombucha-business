@@ -4,9 +4,9 @@
   "settings": {
     "width": 2000,
     "height": 2000,
-    "scrollTop": -100,
-    "scrollLeft": 0,
-    "zoomLevel": 1,
+    "scrollTop": -44.6667,
+    "scrollLeft": -38,
+    "zoomLevel": 0.85,
     "show": 511,
     "database": 32,
     "databaseName": "Kombucha",
