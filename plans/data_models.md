@@ -3,6 +3,8 @@
     - Customer ID (PK)
     - Name
     - First transaction
+    - Created Date
+    - Modified Date
 
 - Flavours
     - Flavour ID (PK)
@@ -15,6 +17,7 @@
     - Transaction Date
     - Customer ID (FK)
     - Flavour ID (FK)
+    - Quantity
 
 - Flavours History
     - History ID (PK)
